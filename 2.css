@@ -1,0 +1,47 @@
+h1{
+	  font-family: arial, verdhana, sans-serif;
+	  margin: 0px;
+	  width: 10px;
+	  height: 10px;
+	  position: relative;
+	  left: 150px;
+	  top: 15px;
+	  color: black;
+	  font-size: 30px;
+	  
+					
+}
+.logo{			
+				position: relative;	
+				width: 150px;
+				top: -9px;
+}
+.lol {
+				background-color: black;
+}
+nav{
+				background-color: white;
+				height: 150px;
+				width: 1000px;
+}
+.isi {
+			color: white;
+			font-size:20px
+}
+.o{
+				color: red;
+}
+.m {
+				color: white;
+}
+.n{
+				text-align: center;
+				color: white;
+}
+h3 {
+				background: white;
+				border-radius: 8px;
+				color: blue;
+				padding: 16px;
+
+}
